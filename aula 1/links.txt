@@ -1,0 +1,17 @@
+Coursera
+
+Buscas de cursos de estatística - https://www.coursera.org/search?query=statistics&
+
+Statistics with Python - https://www.coursera.org/specializations/statistics-with-python
+
+Statistics with R - https://www.coursera.org/specializations/statistics
+
+Livros
+
+Estatística Aplicada (6 edição) - https://www.amazon.com.br/Estat%C3%ADstica-aplicada-Ron-Larson/dp/8543004772
+
+Estatística - O que é, para que serve e como funciona - https://www.amazon.com.br/Estat%C3%ADstica-para-serve-como-funciona/dp/8537815128
+
+Data Science para Negócios - https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726
+
+Storytelling com Dados - https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681
