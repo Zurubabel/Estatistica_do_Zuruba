@@ -4,7 +4,7 @@ Como eu disse na primeira aula: estes vídeos são para me ajudar a aprender e, 
 
 Ah, o .docx que está aí é o arquivo que eu uso de anotações. Sim, tá tudo aí. Se quiser pegar, pode pegar. Tá na mão.
 
-## [Estatística do Zuruba (Aula 1) - Introdução e Explicações](https://youtu.be/h6U4L7UzG2A)
+## [Estatística do Zuruba (Aula 1) - Introdução e Explicações](https://youtu.be/QfPTP6FUjrc)
 
 Tive que reupar o bendito do vídeo, pois simplesmente perdeu o som : /
 
