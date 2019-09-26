@@ -24,6 +24,10 @@ Neste vídeo eu explico sobre o que vai ter nos vídeos do capítulo um - Introd
 
 Neste vídeo do Estatística do Zuruba eu falo sobre a importância dos dados, a definição de estatística, o que á uma população e uma amostra e o que são parâmetros e estatísticas.
 
-## [Estatística do Zuruba (Aula 1.3) - Exemplo de fixação dos termos do vídeo 1 2](https://youtu.be/BcyNYxozcvg)
+## [Estatística do Zuruba (Aula 1.3) - Exemplo de fixação dos termos do vídeo 1.2 27/09/2019 08:00](https://youtu.be/BcyNYxozcvg)
 
 Neste vídeo do Estatística do Zuruba eu uso os dados da ANP para reforçarmos os conceitos aprendidos na aula anterior: dados, estatística, população e amostra e parâmetros e estatísticas.
+
+## [Estatística do Zuruba (Aula 1.4) - Estatística Descritiva e Inferencial 28/09/2019 08:00](https://youtu.be/oj-vFCLbyQQ)
+
+Nesta vídeo aula de Estatística do Zuruba eu falo um pouco sobre estatística descritiva e estatística inferencial. Também falo alguns exemplos sobre o tema.
