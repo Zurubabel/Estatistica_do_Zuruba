@@ -35,3 +35,7 @@ Nesta vídeo aula de Estatística do Zuruba eu falo um pouco sobre estatística 
 ## [Estatística do Zuruba (Aula 1.5) - Exemplos de Estatística Descritiva e Inferencial - 30/09/2019 18:00](https://youtu.be/6933qswBhKo)
 
 Nesta vídeo aula de Estatística do Zuruba eu cito alguns exemplos de estatística descritiva e inferencial partindo da algumas notícias da cidade de São Paulo.
+
+## [Estatística do Zuruba (Aula 1.6) - Exercício 1 (Aulas 1.1 até 1.5) - 01/10/2019 18:00](https://youtu.be/ZKHvHrAkLUk)
+
+Nesta vídeo aula da Estatística do Zuruba eu faço alguns exercícios para fixação do conteúdo das aulas 1.1 até a aula 1.5.
