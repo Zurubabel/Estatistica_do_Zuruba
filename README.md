@@ -39,3 +39,7 @@ Nesta vídeo aula de Estatística do Zuruba eu cito alguns exemplos de estatíst
 ## [Estatística do Zuruba (Aula 1.6) - Exercício 1 (Aulas 1.1 até 1.5) - 01/10/2019 18:00](https://youtu.be/ZKHvHrAkLUk)
 
 Nesta vídeo aula da Estatística do Zuruba eu faço alguns exercícios para fixação do conteúdo das aulas 1.1 até a aula 1.5.
+
+## [Estatística do Zuruba (Aula 1.7) - Exercício 2 (Aulas 1.1 até 1.5 - 02/210/2019 18:00)](https://youtu.be/M6zMGPVHPUQ)
+
+Nesta vídeo aula da Estatística do Zuruba eu faço alguns exercícios para fixação do conteúdo das aulas 1.1 até a aula 1.5, agora analisando uma frase e ver se ela é verdadeira ou falsa.
