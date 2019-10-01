@@ -40,7 +40,7 @@ Nesta vídeo aula de Estatística do Zuruba eu cito alguns exemplos de estatíst
 
 Nesta vídeo aula da Estatística do Zuruba eu faço alguns exercícios para fixação do conteúdo das aulas 1.1 até a aula 1.5.
 
-## [Estatística do Zuruba (Aula 1.7) - Exercício 2 (Aulas 1.1 até 1.5 - 02/10/2019 18:00)](https://youtu.be/M6zMGPVHPUQ)
+## [Estatística do Zuruba (Aula 1.7) - Exercício 2 (Aulas 1.1 até 1.5) - 02/10/2019 18:00](https://youtu.be/M6zMGPVHPUQ)
 
 Nesta vídeo aula da Estatística do Zuruba eu faço alguns exercícios para fixação do conteúdo das aulas 1.1 até a aula 1.5, agora analisando uma frase e ver se ela é verdadeira ou falsa.
 
@@ -59,3 +59,10 @@ Nesta vídeo aula da Estatística do Zuruba eu demonstro como usar os tipos de d
 ## [Estatística do Zuruba (Aula 1.11) - Estudo Observacional e Estudo Experimental - 06/10/2019 18:00](https://youtu.be/MeC5HWrfHUQ)
 
 Nesta vídeo aula da Estatística do Zuruba eu falo um pouco sobre a diferença entre estudos observacionais e estudos experimentais.
+
+## [Estatística do Zuruba (Aula 1.12) - Coleta de dados por simulação e pesquisa - 07/10/2019 18:00](https://youtu.be/1BxuMac24Qw)
+
+Nesta vídeo aula do Estatística do Zuruba eu falo sobre a coleta de dados por simulação e por pesquisa.
+
+scikit-learn - https://scikit-learn.org/stable/
+Nukemap - https://nuclearsecrecy.com/nukemap/
