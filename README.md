@@ -55,3 +55,7 @@ Nesta vídeo aula da Estatística do Zuruba eu explico sobre tipos de dados (qua
 ## [Estatística do Zuruba (Aula 1.10) - Exemplo de Tipos de Dados e Níveis de Mensuração - 05/10/2019 18:00](https://youtu.be/iju0Uvi1xbA)
 
 Nesta vídeo aula da Estatística do Zuruba eu demonstro como usar os tipos de dados e níveis de mensuração na hora de selecionar dados no SQL Server.
+
+## [Estatística do Zuruba (Aula 1.11) - Estudo Observacional e Estudo Experimental - 06/10/2019 18:00](https://youtu.be/MeC5HWrfHUQ)
+
+Nesta vídeo aula da Estatística do Zuruba eu falo um pouco sobre a diferença entre estudos observacionais e estudos experimentais.
