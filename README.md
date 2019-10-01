@@ -40,6 +40,18 @@ Nesta vídeo aula de Estatística do Zuruba eu cito alguns exemplos de estatíst
 
 Nesta vídeo aula da Estatística do Zuruba eu faço alguns exercícios para fixação do conteúdo das aulas 1.1 até a aula 1.5.
 
-## [Estatística do Zuruba (Aula 1.7) - Exercício 2 (Aulas 1.1 até 1.5 - 02/210/2019 18:00)](https://youtu.be/M6zMGPVHPUQ)
+## [Estatística do Zuruba (Aula 1.7) - Exercício 2 (Aulas 1.1 até 1.5 - 02/10/2019 18:00)](https://youtu.be/M6zMGPVHPUQ)
 
 Nesta vídeo aula da Estatística do Zuruba eu faço alguns exercícios para fixação do conteúdo das aulas 1.1 até a aula 1.5, agora analisando uma frase e ver se ela é verdadeira ou falsa.
+
+## [Estatística do Zuruba (Aula 1.8) - Exercício 3 (Aulas 1.1 até 1.5) - 03/10/2019 18:00](https://youtu.be/VL0etAKs6fU)
+
+Nesta vídeo aula da Estatística do Zuruba eu faço alguns exercícios para fixação do conteúdo das aulas 1.1 até a aula 1.5, agora analisando sobre os conjuntos de dados, se são amostras ou populações.
+
+## [Estatística do Zuruba (Aula 1.9) - Tipos de Dados e Níveis de Mensuração - 04/10/2019 18:00](https://youtu.be/5NW8rws7G3c)
+
+Nesta vídeo aula da Estatística do Zuruba eu explico sobre tipos de dados (qualitativos ou quantitativos) e os seus níveis de mensuração (nominal, ordinal, intervalar ou razão).
+
+## [Estatística do Zuruba (Aula 1.10) - Exemplo de Tipos de Dados e Níveis de Mensuração - 05/10/2019 18:00](https://youtu.be/iju0Uvi1xbA)
+
+Nesta vídeo aula da Estatística do Zuruba eu demonstro como usar os tipos de dados e níveis de mensuração na hora de selecionar dados no SQL Server.
