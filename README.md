@@ -36,9 +36,13 @@ Nesta vídeo aula de Estatística do Zuruba eu falo um pouco sobre estatística 
 
 Nesta vídeo aula de Estatística do Zuruba eu cito alguns exemplos de estatística descritiva e inferencial partindo da algumas notícias da cidade de São Paulo.
 
-## [Estatística do Zuruba (Aula 1.6) - Exercício 1 (Aulas 1.1 até 1.5) - 01/10/2019 18:00](https://youtu.be/ZKHvHrAkLUk)
+## [Estatística do Zuruba (Aula 1.6) - Exercício 1 (Aulas 1.1 até 1.5) Reupado - 02/10/2019](https://youtu.be/HjDjhNSZhXI)
 
 Nesta vídeo aula da Estatística do Zuruba eu faço alguns exercícios para fixação do conteúdo das aulas 1.1 até a aula 1.5.
+
+O vídeo foi reupado pq eu inverti as respostas no vídeo original [https://www.youtube.com/watch?v=ZKHvHrAkLUk](https://www.youtube.com/watch?v=ZKHvHrAkLUk). Obrigado, Diego Santos.
+
+Ah, eu acertei no símbolo da média populacional. Hahahahaha
 
 ## [Estatística do Zuruba (Aula 1.7) - Exercício 2 (Aulas 1.1 até 1.5) - 02/10/2019 18:00](https://youtu.be/M6zMGPVHPUQ)
 
