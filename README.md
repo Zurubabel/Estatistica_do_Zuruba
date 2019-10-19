@@ -145,7 +145,7 @@ Dividi em duas partes pq o vídeo já estava com mais de 12 minutos.
 Nesta segunda parte eu demonstro sobre a média e mediana em distribuições assimétricas e também falo sobre a "pegadinha" de você deduzir sobre qual tipo de distribuição que seus dados estão partindo pura e simplesmente da média e mediana.
 
 
-# MEDIDAS DE VARIAÇÃO/DISPERSÃO
+# PARTE 3 - MEDIDAS DE VARIAÇÃO/DISPERSÃO
 
 ## [Estatística do Zuruba (Aula 3.0) - Medidas de Variação - Introdução](https://www.youtube.com/watch?v=ecw1k3xOelw)
 
