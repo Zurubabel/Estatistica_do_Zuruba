@@ -90,7 +90,7 @@ Nesta vídeo aula da Estatística do Zuruba eu falo sobre dois temas importantes
 
 # PARTE 2 - MEDIDAS DE TENDÊNCIA CENTRAL
 
-##[Estatística do Zuruba - (Aula 2.1) - Média](https://www.youtube.com/watch?v=49oi7grjB7o)
+## [Estatística do Zuruba - (Aula 2.1) - Média](https://www.youtube.com/watch?v=49oi7grjB7o)
 
 Nesta vídeo aula da Estatística do Zuruba eu já começo o capítulo 2 falando sobre média "simples".
 
@@ -102,7 +102,7 @@ Nesta vídeo aula da Estatística do Zuruba eu falo sobre como obter a mediana, 
 
 Nesta vídeo aula da Estatística do Zuruba eu falo sobre a diferença entre média e mediana e a importância de entender sobre esses dois conceitos.
 
-## [Estatística do Zuruba (Aula 2.4) - Moda](Nesta vídeo aula da Estatística do Zuruba eu falo sobre moda, que é o dado com maior frequência em um conjunto de dados.)
+## [Estatística do Zuruba (Aula 2.4) - Moda](https://youtu.be/_Rci7kWLRSs)
 
 Nesta vídeo aula da Estatística do Zuruba eu falo sobre moda, que é o dado com maior frequência em um conjunto de dados.
 
