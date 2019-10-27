@@ -176,3 +176,67 @@ Neste vídeo eu faço algumas correções sobre os cálculos do Excel e demonstr
 ## [Estatística do Zuruba (Aula 3.5) - Desvio Padrão em dados agrupados](https://www.youtube.com/watch?v=o3W67BqBEio)
 
 Nesta vídeo aula da Estatística do Zuruba eu demonstro como se obtém o desvio padrão em dados agrupados. O exemplo é da fórmula do desvio padrão amostral, mas é só remover o -1 e terá o desvio padrão populacional.
+
+## [Estatística do Zuruba (Aula 3.6) - Demonstrando o Desvio Padrão ante a média](https://youtu.be/Zq0w1ixXsMs)
+
+Nesta vídeo aula da Estatística do Zuruba eu demonstro como fica o espaçamento da distribuição dos dados ante a média e que quanto maios o desvio padrão sobre a média, maior é o "espalhamento" dos dados.
+
+## [Estatística do Zuruba (Aula 3.7) - Regra Empírica](https://youtu.be/SDo33g1z36I)
+
+Nesta vídeo aula da Estatística do Zuruba eu falo sobre Regra empírica, que é a "noção" de onde estão concentrados os dados de acordo com sua distância da média usando o desvio padrão como medida. A regra é simples: 68%, 95%, 99,7%
+
+## [Estatística do Zuruba (Aula 3.8) - Exercício de Regra Empírica](https://youtu.be/CMYpeLqXrVw)
+
+Neste vídeo da Estatística do Zuruba eu faço um simples exercício sobre como obter a porcentagem de dados da sua distribuição usando a Regra Empírica.
+
+## [Estatística do Zuruba (Aula 3.9) - Desvio Padrão em dados agrupados com intervalo](https://youtu.be/6s7g2ZsdPys)
+
+Nesta vídeo aula da estatística do Zuruba eu falo sobre como obter o desvio padrão em dados agrupados com intervalos de valores.
+
+## [Estatística do Zuruba (Aula 3.10) - Exemplo Desvio Padrão em dados agrupados com intervalo](https://youtu.be/BdqBwrZ5_CY)
+
+Nesta vídeo aula da Estatística do Zuruba eu tento dar uma resumida em como você obtém o desvio padrão em dados agrupados com intervalos.
+
+Sim, é possível fazer de forma mais rápida, mas decidi fazer passo-a-passo para que entendam todas as partes do cálculo.
+
+## [Estatística do Zuruba (Aula 3.11) - Coeficiente de Variação](https://youtu.be/Ob1HTngaGUU)
+
+Nesta vídeo aula da Estatística do Zuruba eu falo sobre o que é e como usa o coeficiente de variação.
+
+Cálculo: desvio padrão / média * 100%
+
+## [Estatística do Zuruba (Aula 3.12) - Índice de assimetria de Pearson](https://youtu.be/anZGxYtW-Bw)
+
+Nesta vídeo aula da Estatística do Zuruba eu falo sobre o índice de assimetria de Pearson e também explico um pouco sobre o gráfico de caixa.
+
+O Índice de Assimetria de Pearson é calculado: P = 3(média - mediana) / desvio padrão.
+
+## [Estatística do Zuruba (Aula 3.13) - Exercíos de Fixação 1](https://youtu.be/lwFdDfYL9Po)
+
+Nesta vídeo aula de Estatística do Zuruba eu respondo duas primeiras das 8 perguntas dos exercícios de fixação das aulas até agora (da 01 até a 13).
+
+## [Estatística do Zuruba (Aula 3.14) - Exercíos de Fixação 2](https://youtu.be/9HD2M2rP-Z4)
+
+Nesta vídeo aula de Estatística do Zuruba eu respondo as perguntas 3 e 5 dos exercícios de fixação das aulas até agora (da 01 até a 13). Sim, eu errei a ordem.
+
+Neste vídeo eu falo sobre a vantagem do desvio padrão sobre a variância e a diferença dos cálculos do desvio padrão amostral e populacional.
+
+## [Estatística do Zuruba (Aula 3.15) - Exercíos de Fixação 3](https://youtu.be/Lsni6TolRng)
+
+Nesta vídeo aula de Estatística do Zuruba eu respondo as perguntas 4 e 6 dos exercícios de fixação das aulas até agora (da 01 até a 13).
+
+## [Estatística do Zuruba (Aula 3.16) - Teorema de Chebyshev](https://youtu.be/oAdd-DLTo2E)
+
+Nesta vídeo aula de Estatística do Zuruba eu falo sobre o Teorema de Chebyshev, que demonstra onde está a concentração dos dados em todas as distribuições.
+
+Lembrando: o teorema diz uma ESTIMATIVA, não a quantidade exata da concentração dos dados.
+
+## [Estatística do Zuruba (Aula 3.17) - Diferenciando Regra Empírica e Teorema de Chebyshev](https://youtu.be/0z6k-dG6MS0)
+
+Nesta vídeo aula da Estatística do Zuruba eu diferencio a Regra Empírica e o Teorema de Chebyshev usando a contagem das observações.
+
+Reforçando três coisas que eu disse no vídeo: ambos possuem usos distintos, a Regra Empírica possui uma inferência mais forte que o Teorema de Chebyshev e é bem provável que com mais observações é possível chegar a números mais próximos aos que a Regra Empírica e o Teorema dizem.
+
+## [Estatística do Zuruba (Aula 3.18) - Exercícios de Fixação 4](https://youtu.be/rD6E3CmP-ng)
+
+Nesta vídeo aula da Estatística do Zuruba eu termino de as duas últimas questões dos exercícios e falo sobre o Teorema de Chebyshev e Regra empírica.
