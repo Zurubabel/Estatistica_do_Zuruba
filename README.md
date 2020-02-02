@@ -240,3 +240,15 @@ Reforçando três coisas que eu disse no vídeo: ambos possuem usos distintos, a
 ## [Estatística do Zuruba (Aula 3.18) - Exercícios de Fixação 4](https://youtu.be/rD6E3CmP-ng)
 
 Nesta vídeo aula da Estatística do Zuruba eu termino de as duas últimas questões dos exercícios e falo sobre o Teorema de Chebyshev e Regra empírica.
+
+## [Estatística do Zuruba (Aula 3.19) - Medidas de Posição - Quartil (modo fácil)](https://youtu.be/1y2QsQzC04w)
+
+Nesta vídeo aula da estatística do Zuruba eu começo a falar sobre medidas de posição, começando pelo quartil.
+
+Resumindo: você obtém os quartis calculando as médias dos valores dos seus conjuntos.
+
+## [Estatística do Zuruba (Aula 3.20) - Calculando Quartil - Difícil 2](https://youtu.be/0NxzRuXEXwI)
+
+Nesta aula de Estatística do Zuruba eu realizo outro cálculo de quartil e demonstro que existem outras formas de calcular os intervalos.
+
+Link citado na aula: https://peltiertech.com/quartiles/
